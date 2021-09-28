@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Cano
 - 👀 I’m interested in programming and biology
-- 🌱 I’m currently learning keras
-- 💞️ I’m looking to collaborate on python and javascript projects
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on python and javascript,React projects
 - 📫 How to reach me ...
 
 <!---
